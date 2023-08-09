@@ -1,0 +1,17 @@
+\contentsline {section}{\numberline {1}Introduction}{3}{}%
+\contentsline {section}{\numberline {2}Literature Review}{3}{}%
+\contentsline {section}{\numberline {3}Theoretical Framework}{5}{}%
+\contentsline {subsection}{\numberline {3.1}Model Theory}{5}{}%
+\contentsline {subsection}{\numberline {3.2}Data and Variable Selection}{9}{}%
+\contentsline {section}{\numberline {4}Data and Methodology}{10}{}%
+\contentsline {subsection}{\numberline {4.1}Definitions of Variables}{10}{}%
+\contentsline {subsection}{\numberline {4.2}Basic Data Parameters}{11}{}%
+\contentsline {subsection}{\numberline {4.3}Empirical Results}{11}{}%
+\contentsline {subsection}{\numberline {4.4}Model Optimization}{13}{}%
+\contentsline {section}{\numberline {5}Robustness Check}{14}{}%
+\contentsline {section}{\numberline {6}Conclusion}{18}{}%
+\contentsline {section}{Reference}{19}{}%
+\contentsline {section}{Appendices}{19}{}%
+\contentsline {subsection}{Appendix A. Data Source}{19}{}%
+\contentsline {subsection}{Appendix B. Code}{19}{}%
+\contentsfinish 
